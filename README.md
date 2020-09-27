@@ -2,8 +2,11 @@
 Ritim is available in various different languages.
 If you want Ritim to be shown in a language you can speak, <br>you can create a PR with the file containing the translations. Help is always appreciated.
 
-## 📝 There're serveral ways to translate Ritim:
+## 💞 Contributors:
+- **.ıl_Alper_lı.#1505** (263735224221827072) / English<br>
+- **Minlor#7509** (231821149015769089) / Serbian<br>
 
+## 📝 There're serveral ways to translate Ritim:
 ### ✏️ Using Poeditor (easiest, recommended)
 
 Poeditor is a web app, used to localize your project. As luck would have it, we added Ritim on there! You just have to:
