@@ -1,0 +1,120 @@
+{
+    "TRANSLATION": {
+        "CODE": "sr-SP",
+        "NAME": "Srpski",
+        "AUTHOR": "Programeti Ritim-a"
+    },
+    "STRINGS": {
+        "COMMANDS": {
+            "SEARCH": {
+                "NAME": "traži",
+                "DESCRIPTION": "Traži pjesme",
+                "NO_ARGUMENTS": "Morate upisati nešto za pretraživanje.",
+                "RESULTS": "Rezultati:",
+                "SEARCH_QUERY": "Rezultati za: {QUERY}"
+            },
+            "INFO": {
+                "NAME": "info",
+                "DESCRIPTION": "Daje informacije o botu.",
+                "VERSION": "Verzija",
+                "LIBRARY": "Knjižnica",
+                "DEVELOPERS": "Programeri",
+                "PING": "Ping",
+                "USERS": "Korisnici",
+                "SERVERS": "Serveri",
+                "WEBSITE": "Stranica",
+                "INVITE_LINK": "Pozivnica",
+                "DISCORD_SERVER": "Discord",
+                "UNITED_STATES": "Ujedinjene države",
+                "UPTIME_STRING": "Vrijeme neprekidnog rada: {HOURS} sati, {MINUTES} minuta, {SECONDS} sekundi"
+            },
+            "LEAVE": {
+                "NAME": "napusti",
+                "DESCRIPTION": "",
+                "LIST_HAS_SONGS": ""
+            },
+            "RESUME": {
+                "NAME": "nastavi",
+                "DESCRIPTION": "",
+                "QUEUE_EMPTY": "",
+                "QUEUE_NOT_STOPPED": ""
+            },
+            "LOOP": {
+                "NAME": "petlja",
+                "DESCRIPTION": "",
+                "NO_QUEUE": "",
+                "LOOPING_TOGGLE": ""
+            },
+            "STOP": {
+                "NAME": "zaustavi",
+                "DESCRIPTION": "Zaustavlja pjesmu.",
+                "NO_QUEUE": ""
+            },
+            "SKIP": {
+                "NAME": "preskoči",
+                "DESCRIPTION": "Preskače trenutnu pjesmu.",
+                "NO_QUEUE": ""
+            },
+            "SKIPTO": {
+                "NAME": "preskoči do",
+                "DESCRIPTION": "",
+                "USAGE": "",
+                "NOT_AN_ITEM": "",
+                "LIST_CHECK_TIP": "",
+                "SKIPPED": ""
+            },
+            "SHUTDOWN": {
+                "NAME": "",
+                "DESCRIPTION": "",
+                "NO_QUEUE": ""
+            },
+            "CONNECT": {
+                "NAME": "",
+                "DESCRIPTION": "",
+                "YOU_ARE_NOT_CONNECTED": ""
+            },
+            "PLAYLIST": {
+                "NAME": "",
+                "DESCRIPTION": "",
+                "SAME_CHANNEL": "",
+                "NO_ARGUMENTS": "",
+                "YOUTUBE_URL_OR_PLAYLIST_NAME": "",
+                "YOU_ARE_NOT_CONNECTED": "",
+                "INSUFFICIENT_PERMISSIONS_JOIN": "",
+                "INSUFFICIENT_PERMISSIONS_SPEAK": "",
+                "NOT_FOUND": "",
+                "ADDED": ""
+            },
+            "PURGE": {
+                "NAME": "",
+                "DESCRIPTION": "",
+                "NO_QUEUE": "",
+                "SAME_CHANNEL": ""
+            },
+            "PREFIX": {
+                "NAME": "",
+                "DESCRIPTION": "",
+                "NOT_ADMIN": "",
+                "NOT_CACHED": "",
+                "ERROR_WHILE_CREATING_DATABASE": "",
+                "DEFAULT_IS_SET": "",
+                "FOUND_PREFIX": "",
+                "ERROR_SETTING": "",
+                "DONE": "",
+                "LENGTH_ABOVE": ""
+            },
+            "SHUFFLE": {
+                "NAME": "",
+                "DESCRIPTION": "",
+                "NO_QUEUE": ""
+            }
+        },
+        "OTHER": {
+            "ZENTOR": "",
+            "COOLDOWN": "",
+            "ERROR": "",
+            "COOLDOWN_TEXT": "Morate pričekati {SECONDS} sekundi da biste upotrijebili ovu komandu!",
+            "ERROR_WHILE_COMMAND": "Došlo je do pogreške prilikom izvršavanja ove komande, molimo vas da prijavite na: https://ritim.xyz/discord"
+        }
+    }
+}
