@@ -1,6 +1,7 @@
 {
     "nothingplaying": "Şu anda bir şey oynatılmıyor.",
     "queueempty": "Liste boş.",
+    "previous": "Şu anki oynatılan içerikden önce bir şey oynatılmamış.",
     "mustVoice": "Bir sesli kanalda olmalısın.",
     "mustThis": "Bu komutu kullanabilmek için {CHANNEL} kanalında olmalısın.",
     "queueCleared": "Liste temizlendi.",
