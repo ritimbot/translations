@@ -1,5 +1,4 @@
 {
-    "tr": {
         "nothingplaying": "Şu anda bir şey oynatılmıyor.",
         "queueempty": "Liste boş.",
         "mustVoice": "Bir sesli kanalda olmalısın.",
@@ -50,5 +49,4 @@
         "newVolume": "Yeni ses seviyesi: {VOLUME}",
         "queueEmpty": "Liste boş, sesli kanaldan ayrılıyorum.",
         "playing": "Oynatılıyor: "
-    }
 }
