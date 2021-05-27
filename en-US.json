@@ -1,6 +1,7 @@
 {
     "nothingplaying": "There is nothing playing now.",
     "queueempty": "Queue is empty.",
+    "previous": "There is no song played before this song.",
     "mustVoice": "You need to be in a voice channel.",
     "mustThis": "You need to be in {CHANNEL} to use this command.",
     "queueCleared": "Queue cleared.",
