@@ -1,7 +1,6 @@
 {
     "nothingplaying": "There is nothing playing now.",
     "queueempty": "Queue is empty.",
-    "previous": "There is no song played before this song.",
     "mustVoice": "You need to be in a voice channel.",
     "mustThis": "You need to be in {CHANNEL} to use this command.",
     "queueCleared": "Queue cleared.",
@@ -49,5 +48,14 @@
     "volumeLimit": "Typed value has to be in range of 0 and 200.",
     "newVolume": "New volume: {VOLUME}",
     "queueEmptyLeaving": "List is empty. I am leaving from the channel.",
-    "playing": "Playing: "
+    "playing": "Playing: ",
+    "helpdesc":"Hi, [I'm Ritim](https://url.ritim.xyz/davet)! I am serving limitless music experience to everyone! Say me what to play, relax and listen your music.",
+    "helpsupport": "If you didn't understand how to use commands, you can get help with `{PREFIX}help <commandname>` command.  You still didn't understand? [Visit our support server!](https://discord.gg/m9KPuW4TbA)",
+    "helpfield1": "Commands",
+    "helpfield2": "Support",
+    "previous": "There is no song played before this song.",
+    "kicked": "",
+    "langchanged": "",
+    "langnotfound": "",
+    "langunavailable": ""
 }
