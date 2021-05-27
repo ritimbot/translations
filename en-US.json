@@ -1,5 +1,4 @@
 {
-    "tr": {
         "nothingplaying": "",
         "queueempty": "",
         "mustVoice": "",
@@ -50,5 +49,4 @@
         "newVolume": "",
         "queueEmpty": "",
         "playing": ""
-    }
 }
