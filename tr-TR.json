@@ -1,7 +1,6 @@
 {
     "nothingplaying": "Şu anda bir şey oynatılmıyor.",
     "queueempty": "Liste boş.",
-    "previous": "Şu anki oynatılan içerikden önce bir şey oynatılmamış.",
     "mustVoice": "Bir sesli kanalda olmalısın.",
     "mustThis": "Bu komutu kullanabilmek için {CHANNEL} kanalında olmalısın.",
     "queueCleared": "Liste temizlendi.",
@@ -49,5 +48,14 @@
     "volumeLimit": "Girilen değer 0 ile 200 arasında olmalıdır.",
     "newVolume": "Yeni ses seviyesi: {VOLUME}",
     "queueEmptyLeaving": "Liste boş, sesli kanaldan ayrılıyorum.",
-    "playing": "Oynatılıyor: "
+    "playing": "Oynatılıyor: ",
+    "kicked": "Kanaldan atıldığım için oynatma sonlandırıldı.",
+    "previous": "Şu anki oynatılan içerikden önce bir şey oynatılmamış.",
+    "helpdesc":"Selam, [Ben Ritim](https://url.ritim.xyz/davet). Sana hiçbir sınırlama olmadan akıcı bir müzik deneyimi sunan bir Discord botuyum... Bana komut ver, ve daha sonra arkana yaslanıp müziğin keyfini çıkar.",
+    "helpsupport": "Komutları nasıl kullanacağını anlamadıysan, `{PREFIX}yardım <komutadı>` şeklinde komutlar hakkında birebir bilgi alabilirsin, yine mi anlamadın? [Destek sunucumuza uğra!](https://discord.gg/m9KPuW4TbA)",
+    "helpfield1": "Komutlar",
+    "helpfield2": "Destek",
+    "langchanged": "Dil {LANG} olarak değiştirildi.",
+    "langnotfound": "Dili değiştirmek için bir dil girmeniz gerekmektedir. (Kullanılabilir diller: {LANGS})",
+    "langunavailable": "Dili değiştirmek için bir dil girmeniz gerekmektedir. (Kullanılabilir diller: {LANGS})"
 }
