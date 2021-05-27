@@ -2,7 +2,7 @@
 Ritim is available in various different languages.
 If you want Ritim to be shown in a language you can speak, <br>you can create a PR with the file containing the translations. Help is always appreciated.
 
-## 💞 Contributors
+## 🤠 Contributors
 - **English** - [ardasoyturk](https://github.com/ardasoyturk) & [AlperSal](https://github.com/AlperSal)
 
 ## 📝 There're serveral ways to translate Ritim:
