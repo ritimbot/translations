@@ -57,5 +57,9 @@
     "kicked": "Stream is ended because I'm kicked from the channel.",
     "langchanged": "Language is changed to {LANG}.",
     "langnotfound": "You need to type a language to change it. (Available languages: {LANGS})",
-    "langunavailable": "This language is not available now. (Available languages: {LANGS})"
+    "langunavailable": "This language is not available now. (Available languages: {LANGS})",
+    "helpbtn1": "Vote",
+    "helpbtn2": "Invite",
+    "helpbtn3": "Donate",
+    "helpbtn4": "Support"
 }
