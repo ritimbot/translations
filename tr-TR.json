@@ -57,5 +57,9 @@
     "helpfield2": "Destek",
     "langchanged": "Dil {LANG} olarak değiştirildi.",
     "langnotfound": "Dili değiştirmek için bir dil girmeniz gerekmektedir. (Kullanılabilir diller: {LANGS})",
-    "langunavailable": "Dili değiştirmek için bir dil girmeniz gerekmektedir. (Kullanılabilir diller: {LANGS})"
+    "langunavailable": "Dili değiştirmek için bir dil girmeniz gerekmektedir. (Kullanılabilir diller: {LANGS})",
+    "helpbtn1": "Oy",
+    "helpbtn2": "Davet",
+    "helpbtn3": "Bağış",
+    "helpbtn4": "Destek"
 }
