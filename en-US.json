@@ -1,10 +1,10 @@
 {
     "nothingplaying": "",
     "queueempty": "",
-    "mustVoice": "",
+    "mustVoice": "You aren't connected to a voice channel",
     "mustThis": "",
     "queueCleared": "",
-    "ownerOnly": "",
+    "ownerOnly": "That command can only be run by the owner of this bot!",
     "invite": "",
     "loopClosed": "",
     "loopModeSet": "",
@@ -19,13 +19,13 @@
     "moved": "",
     "currentPlaying": "",
     "stream": "",
-    "error": "",
+    "error": "An error occurred while runnig that command. Please report the error to the bot owner.",
     "ping": "",
-    "missingPerms": "",
+    "missingPerms": "I'm missing permission to connect your voice channel! I need this/these permission(s) to connect your channel: {PERMS}",
     "queryNotFoundPlay": "",
     "playlistAdded": "",
     "trackAdded": "",
-    "adminOnly": "",
+    "adminOnly": "That command can only be run by the admin/owner of this server!",
     "prefixChanged": "",
     "prefixTooLong": "",
     "prefixNotFound": "",
@@ -47,6 +47,6 @@
     "currentVolume": "",
     "volumeLimit": "",
     "newVolume": "",
-    "queueEmptyLeaving": "",
-    "playing": ""
+    "queueEmptyLeaving": "The queue is empty, destroying the player.",
+    "playing": "Now Playing: "
 }
