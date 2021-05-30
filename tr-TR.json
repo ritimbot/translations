@@ -61,5 +61,10 @@
     "helpbtn1": "Oy",
     "helpbtn2": "Davet",
     "helpbtn3": "Bağış",
-    "helpbtn4": "Destek"
+    "helpbtn4": "Destek",
+
+    "effectscleared": "Efektler temizlendi.",
+    "activateddisabled": "{MODE1} aktifleştirildi, {MODE2} kapatıldı.",
+    "activated": "{MODE} aktifleştirildi.",
+    "disabled": "{MODE} kapatıldı."
 }

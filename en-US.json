@@ -61,5 +61,9 @@
     "helpbtn1": "Vote",
     "helpbtn2": "Invite",
     "helpbtn3": "Donate",
-    "helpbtn4": "Support"
+    "helpbtn4": "Support",
+    "effectscleared": "Effects cleared.",
+    "activateddisabled": "{MODE1} activated, {MODE2} disabled.",
+    "activated": "{MODE} activated.",
+    "disabled": "{MODE} disabled."
 }
