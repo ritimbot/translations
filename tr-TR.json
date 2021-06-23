@@ -62,9 +62,30 @@
     "helpbtn2": "Davet",
     "helpbtn3": "Bağış",
     "helpbtn4": "Destek",
-
     "effectscleared": "Efektler temizlendi.",
     "activateddisabled": "{MODE1} aktifleştirildi, {MODE2} kapatıldı.",
     "activated": "{MODE} aktifleştirildi.",
-    "disabled": "{MODE} kapatıldı."
+    "disabled": "{MODE} kapatıldı.",
+    "premiumoffline": "Premium lavalink sunucularımız aktif değil. Lütfen geliştiriciye bildirin.",
+    "enterednan": "Girilen değer bir sayı değil.",
+    "setto": "{VALUE}, {VALUE1} olarak ayarlandı.",
+    "premiumonly": "Bu komutu sadece premium sunucular kullanabilir, eğer premium almak isterseniz Discord sunucumuzu ziyaret edebilirsiniz. ( https://url.ritim.xyz/discord )",
+
+    "stats": {
+        "latency": "Gecikme",
+        "uptime": "Çalışma Süresi",
+        "servers": "Sunucu Sayısı",
+        "ramusage": "Ram Kullanımı",
+        "os": "İşletim Sistemi",
+        "uptimetext": {
+            "days": "gün",
+            "hours": "saat",
+            "minutes": "dakika",
+            "seconds": "saniye"
+        }
+    },
+    "speedvalue": "Şu anki hız: **{SPEED}**. Eğer hızı değiştirmek isterseniz, komutu `{PREFIX}hız 2` şeklinde kullanın.",
+    "pitchvalue": "Şu anki pitch: **{PITCH}**. Eğer pitch'i değiştirmek isterseniz, komutu `{PREFIX}pitch 2` şeklinde kullanın.",
+    "premiumactive": "Premium bu sunucuda aktif, desteğiniz için teşekkürler.",
+    "alreadyconnected": "Bot zaten bir sesli kanala bağlı."
 }
