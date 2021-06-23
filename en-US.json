@@ -65,5 +65,27 @@
     "effectscleared": "Effects cleared.",
     "activateddisabled": "{MODE1} activated, {MODE2} disabled.",
     "activated": "{MODE} activated.",
-    "disabled": "{MODE} disabled."
+    "disabled": "{MODE} disabled.",
+    "premiumoffline": "Our premium lavalink servers offline. Please report to the developer.",
+    "enterednan": "Entered value is not a number.",
+    "setto": "{VALUE} set to {VALUE1}",
+    "premiumonly": "This command only for premium servers, if you want to buy premium visit our Discord server. ( https://url.ritim.xyz/discord )",
+
+    "stats": {
+        "latency": "Latency",
+        "uptime": "Uptime",
+        "servers": "Servers",
+        "ramusage": "Ram Usage",
+        "os": "Operating System",
+        "uptimetext": {
+            "days": "days",
+            "hours": "hours",
+            "minutes": "minutes",
+            "seconds": "seconds"
+        }
+    },
+    "speedvalue": "Current speed: {SPEED}. If you want to change speed, use `{PREFIX}speed 2` ",
+    "pitchvalue": "Current pitch: {PITCH}. If you want to change pitch, use `{PREFIX}pitch 2`",
+    "premiumactive": "Premium active in this server, thank you for your support.",
+    "alreadyconnected": "Bot is already connected to a voice channel."
 }
